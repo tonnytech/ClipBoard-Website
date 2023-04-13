@@ -1,6 +1,10 @@
-# Simple Tailwind CSS Starter
+# Simple Tailwind CSS website
 
 This is an extremley simple setup to develop Tailwind projects. This will be used in my Tailwind From Scratch course.
+
+## Live preview
+
+[click here](https://tonnytech.github.io/ClipBoard-Website/)
 
 ## Usage
 
